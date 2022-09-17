@@ -5,14 +5,14 @@
 
 ## 🔗 Links
 
-[Tasks](https://github.com/IBM-EPBL/IBM-Project-35987-1660291368/tree/main/tasks) <br>
-[Assignments](https://github.com/IBM-EPBL/IBM-Project-35987-1660291368/tree/main/Assignments)
+[Assessments](https://github.com/IBM-EPBL/IBM-Project-35987-1660291368/tree/main/Assessments) <br>
+[Pre-Development](https://github.com/IBM-EPBL/IBM-Project-35987-1660291368/tree/main/Pre-Development)
 
 ## Batch
 
  B9 - 3A5E
 
-- Gummadi Mahesh  [Tasks](https://github.com/IBM-EPBL/IBM-Project-35987-1660291368/tree/main/Tasks/Gummadi%20Mahesh)       [Assignments](https://github.com/IBM-EPBL/IBM-Project-35987-1660291368/tree/main/Assignments/Gummadi%20Mahesh)
-- Harish S   [Tasks](https://github.com/IBM-EPBL/IBM-Project-35987-1660291368/tree/main/Tasks/Harish%20S)       [Assignments](https://github.com/IBM-EPBL/IBM-Project-35987-1660291368/tree/main/Assignments/Harish%20S)
-- Kuragayala Mohan Krishna   [Tasks](https://github.com/IBM-EPBL/IBM-Project-35987-1660291368/tree/main/Tasks/Kuragayala%20Mohan%20Krishna)       [Assignments](https://github.com/IBM-EPBL/IBM-Project-35987-1660291368/tree/main/Assignments/Kuragayala%20Mohan%20Krishna)
-- Pandhi Vamsi   [Tasks](https://github.com/IBM-EPBL/IBM-Project-35987-1660291368/tree/main/Tasks/Pandhi%20Vamsi)       [Assignments](https://github.com/IBM-EPBL/IBM-Project-35987-1660291368/tree/main/Assignments/Pandhi%20Vamsi)
+- Gummadi Mahesh (Team Member) [Assesments](https://github.com/IBM-EPBL/IBM-Project-35987-1660291368/tree/main/Assessments/Team%20Member%20-%20Gummadi%20Mahesh)
+- Harish S (Team Lead) [Assesments](https://github.com/IBM-EPBL/IBM-Project-35987-1660291368/tree/main/Assessments/Team%20Lead%20-%20Harish%20S)
+- Kuragayala Mohan Krishna (Team Member) [Assesments](https://github.com/IBM-EPBL/IBM-Project-35987-1660291368/tree/main/Assessments/Team%20Member%20-%20Kuragayala%20Mohan%20Krishna)
+- Pandhi Vamsi (Team Member)   [Assesments](https://github.com/IBM-EPBL/IBM-Project-35987-1660291368/tree/main/Assessments/Team%20Member%20-%20Pandhi%20Vamsi)
