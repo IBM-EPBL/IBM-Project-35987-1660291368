@@ -1,8 +1,4 @@
-# AI-powered Nutrition Analyzer for Fitness Enthusiasts
- 
- AI Model which helps to find the nutritional value and the number of calories by just using pictures of the food
-
-
+![IBM-Project-35987-1660291368](https://socialify.git.ci/IBM-EPBL/IBM-Project-35987-1660291368/image?description=1&font=Bitter&forks=1&language=1&owner=1&pattern=Circuit%20Board&stargazers=1&theme=Dark)
 ## 🔗 Links
 
 [Assessments](https://github.com/IBM-EPBL/IBM-Project-35987-1660291368/tree/main/Assessments) <br>
