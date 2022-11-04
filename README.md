@@ -2,7 +2,9 @@
 ## 🔗 Links
 
 [Assessments](https://github.com/IBM-EPBL/IBM-Project-35987-1660291368/tree/main/Assessments) <br>
-[Pre-Development](https://github.com/IBM-EPBL/IBM-Project-35987-1660291368/tree/main/Pre-Development)
+[Final Deliverables](https://github.com/IBM-EPBL/IBM-Project-35987-1660291368/tree/main/Final%20Deliverables)<br>
+[Pre-Development](https://github.com/IBM-EPBL/IBM-Project-35987-1660291368/tree/main/Pre-Development)<br>
+[Project Development Phase](https://github.com/IBM-EPBL/IBM-Project-35987-1660291368/tree/main/Project%20Development%20Phase)
 
 ## Batch
 
